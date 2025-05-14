@@ -1,0 +1,18 @@
+# Node
+node_modules/
+*.log
+
+# Next.js
+.next/
+out/
+build/
+
+# env
+.env*
+.DS_Store
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
